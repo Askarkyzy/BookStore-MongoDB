@@ -1,0 +1,501 @@
+[{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619a4"
+  },
+  "EMAIL": "laura.park@yahoo.com",
+  "FIRSTNAME": "Laura",
+  "LASTNAME": "Park",
+  "PHONE": "555-444-3333",
+  "ADDRESS": "234 Maple Ave",
+  "CARDNO": "2345-6789-0123-4567"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619a5"
+  },
+  "EMAIL": "michael.kim@hotmail.com",
+  "FIRSTNAME": "Michael",
+  "LASTNAME": "Kim",
+  "PHONE": "777-666-5555",
+  "ADDRESS": "123 Elm St",
+  "CARDNO": "3456-7890-1234-5678"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619a6"
+  },
+  "EMAIL": "christopher.lee@yahoo.com",
+  "FIRSTNAME": "Christopher",
+  "LASTNAME": "Lee",
+  "PHONE": "333-222-1111",
+  "ADDRESS": "789 Cedar Ln",
+  "CARDNO": "5678-9012-3456-7890"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619a7"
+  },
+  "EMAIL": "sarah.jones@email.com",
+  "FIRSTNAME": "Sarah",
+  "LASTNAME": "Jones",
+  "PHONE": "555-555-1212",
+  "ADDRESS": "987 Cherry Ln",
+  "CARDNO": "9876-5432-1098-7654"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619a8"
+  },
+  "EMAIL": "brian.clark@email.com",
+  "FIRSTNAME": "Brian",
+  "LASTNAME": "Clark",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "789 Maple Blvd",
+  "CARDNO": "4567-8901-2345-6789"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619a9"
+  },
+  "EMAIL": "hannahlee@yahoo.com",
+  "FIRSTNAME": "Hannah",
+  "LASTNAME": "Lee",
+  "PHONE": "+7 775 123 4568",
+  "ADDRESS": "Nur-Sultan, Saryarka Avenue 23/9",
+  "CARDNO": "4567 8901 2569 4261"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619aa"
+  },
+  "EMAIL": "matthew.johnson@email.com",
+  "FIRSTNAME": "Matthew",
+  "LASTNAME": "Johnson",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "890 Pine Ave",
+  "CARDNO": "5678-9012-3456-7890"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619ab"
+  },
+  "EMAIL": "jessica.davis@email.com",
+  "FIRSTNAME": "Jessica",
+  "LASTNAME": "Davis",
+  "PHONE": "555-555-1212",
+  "ADDRESS": "432 Cedar St",
+  "CARDNO": "6789-0123-4567-8901"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619ac"
+  },
+  "EMAIL": "eric.smith@email.com",
+  "FIRSTNAME": "Eric",
+  "LASTNAME": "Smith",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "654 Oak Blvd",
+  "CARDNO": "7890-1234-5678-9012"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619ad"
+  },
+  "EMAIL": "laura.miller@email.com",
+  "FIRSTNAME": "Laura",
+  "LASTNAME": "Miller",
+  "PHONE": "555-555-1212",
+  "ADDRESS": "876 Maple Dr",
+  "CARDNO": "9012-3456-7890-1234"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619ae"
+  },
+  "EMAIL": "jane.smith@email.com",
+  "FIRSTNAME": "Jane",
+  "LASTNAME": "Smith",
+  "PHONE": "555-555-1212",
+  "ADDRESS": "456 Maple Ave",
+  "CARDNO": "5555-4444-3333-2222"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619af"
+  },
+  "EMAIL": "megan.johnson@email.com",
+  "FIRSTNAME": "Megan",
+  "LASTNAME": "Johnson",
+  "PHONE": "555-555-1212",
+  "ADDRESS": "456 Cedar Ave",
+  "CARDNO": "3456-7890-1234-5678"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619b0"
+  },
+  "EMAIL": "david.wang@hotmail.com",
+  "FIRSTNAME": "David",
+  "LASTNAME": "Wang",
+  "PHONE": "222-333-4444",
+  "ADDRESS": "789 Maple St",
+  "CARDNO": "3456-7890-1234-5678"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619b1"
+  },
+  "EMAIL": "smirnov@gmail.com",
+  "FIRSTNAME": "Sergei",
+  "LASTNAME": "Smirnov",
+  "PHONE": "+7 701 456 78 90",
+  "ADDRESS": "Shymkent, Abay Street 78/4",
+  "CARDNO": "4567 8901 2345 6789"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619b2"
+  },
+  "EMAIL": "mary.jones@yahoo.com",
+  "FIRSTNAME": "Mary",
+  "LASTNAME": "Jones",
+  "PHONE": "555-123-4567",
+  "ADDRESS": "456 Oak Ave",
+  "CARDNO": "2345-6789-0123-4567"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619b3"
+  },
+  "EMAIL": "steven.nguyen@gmail.com",
+  "FIRSTNAME": "Steven",
+  "LASTNAME": "Nguyen",
+  "PHONE": "777-888-9999",
+  "ADDRESS": "890 Pine St",
+  "CARDNO": "1234-5678-9012-3456"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619b4"
+  },
+  "EMAIL": "daniel.lee@gmail.com",
+  "FIRSTNAME": "Daniel",
+  "LASTNAME": "Lee",
+  "PHONE": "777-888-9999",
+  "ADDRESS": "456 Birch St",
+  "CARDNO": "3456-7890-1234-5678"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619b5"
+  },
+  "EMAIL": "samuel.rodriguez@email.com",
+  "FIRSTNAME": "Samuel",
+  "LASTNAME": "Rodriguez",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "1234 Oak St",
+  "CARDNO": "3456-7890-1234-5678"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619b6"
+  },
+  "EMAIL": "sokolov@hotmail.com",
+  "FIRSTNAME": "Alexey",
+  "LASTNAME": "Sokolov",
+  "PHONE": "+7 702 890 12 34",
+  "ADDRESS": "Shymkent, Al-Farabi Street 67/2",
+  "CARDNO": "8901 2345 6789 0123"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619b7"
+  },
+  "EMAIL": "john.smith@gmail.com",
+  "FIRSTNAME": "John",
+  "LASTNAME": " Smith",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "123 Main St",
+  "CARDNO": "1234-5678-9012-3456"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619b8"
+  },
+  "EMAIL": "jason.kim@yahoo.com",
+  "FIRSTNAME": "Jason",
+  "LASTNAME": "Kim",
+  "PHONE": "777-888-9999",
+  "ADDRESS": "222 Elm St",
+  "CARDNO": "5678-9012-3456-7890"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619b9"
+  },
+  "EMAIL": "tiffany.garcia@yahoo.com",
+  "FIRSTNAME": "Tiffany",
+  "LASTNAME": "Garcia",
+  "PHONE": "555-666-7777",
+  "ADDRESS": "345 Pine St",
+  "CARDNO": "9012-3456-7890-1234"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619ba"
+  },
+  "EMAIL": "ryan.huang@hotmail.com",
+  "FIRSTNAME": "Ryan",
+  "LASTNAME": "Huang",
+  "PHONE": "888-777-6666",
+  "ADDRESS": "678 Cedar St",
+  "CARDNO": "1234-5678-9012-3456"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619bb"
+  },
+  "EMAIL": "petrov@yahoo.com",
+  "FIRSTNAME": "Petr",
+  "LASTNAME": "Petrov",
+  "PHONE": "+7 702 234 56 78",
+  "ADDRESS": "Nur-Sultan, Dostyk Street 45/7",
+  "CARDNO": "2345 6789 0123 4567"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619bc"
+  },
+  "EMAIL": "sarah.doe@yahoo.com",
+  "FIRSTNAME": "Sarah",
+  "LASTNAME": "Doe",
+  "PHONE": "444-555-6666",
+  "ADDRESS": "678 Oak St",
+  "CARDNO": "9012-3456-7890-1234"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619bd"
+  },
+  "EMAIL": "stephanie.kim@yahoo.com",
+  "FIRSTNAME": "Stephanie",
+  "LASTNAME": "Kim",
+  "PHONE": "111-222-3333",
+  "ADDRESS": "789 Maple Ave",
+  "CARDNO": "2345-6789-0123-4567"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619be"
+  },
+  "EMAIL": "mike.williams@email.com",
+  "FIRSTNAME": "Mike",
+  "LASTNAME": "Williams",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "789 Oak Rd",
+  "CARDNO": "1234-5678-9012-3456"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619bf"
+  },
+  "EMAIL": "chris.brown@email.com",
+  "FIRSTNAME": "Chris",
+  "LASTNAME": "Brown",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "321 Elm St",
+  "CARDNO": "4444-3333-2222-1111"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619c0"
+  },
+  "EMAIL": "lisa.white@email.com",
+  "FIRSTNAME": "Lisa",
+  "LASTNAME": "White",
+  "PHONE": "555-555-1212",
+  "ADDRESS": "789 Birch Dr",
+  "CARDNO": "0123-4567-8901-2345"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619c1"
+  },
+  "EMAIL": "robert.martin@email.com",
+  "FIRSTNAME": "Robert",
+  "LASTNAME": "Martin",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "123 Pine Ln",
+  "CARDNO": "2345-6789-0123-4567"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619c2"
+  },
+  "EMAIL": "jason.rodriguez@email.com",
+  "FIRSTNAME": "Jason",
+  "LASTNAME": "Rodriguez",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "654 Cherry Dr",
+  "CARDNO": "6789-0123-4567-8901"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619c3"
+  },
+  "EMAIL": "popova@yahoo.com,",
+  "FIRSTNAME": "Anna",
+  "LASTNAME": "Popova",
+  "PHONE": "+7 707 678 90 12",
+  "ADDRESS": "Nur-Sultan, Seifullin Street 89/3",
+  "CARDNO": "6789 0123 4567 8901"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619c4"
+  },
+  "EMAIL": "elizabeth.smith@gmail.com",
+  "FIRSTNAME": "Elizabeth",
+  "LASTNAME": "Smith",
+  "PHONE": "333-444-5555",
+  "ADDRESS": "444 Cherry Ln",
+  "CARDNO": "6789-0123-4567-8901"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619c5"
+  },
+  "EMAIL": "jessica.hernandez@hotmail.com",
+  "FIRSTNAME": "Jessica",
+  "LASTNAME": "Hernandez",
+  "PHONE": "444-555-6666",
+  "ADDRESS": "1010 Maple St",
+  "CARDNO": "6789-0123-4567-8901"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619c6"
+  },
+  "EMAIL": "john.doe@email.com",
+  "FIRSTNAME": "John",
+  "LASTNAME": "Doe",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "123 Main St",
+  "CARDNO": "1111-2222-3333-4444"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619c7"
+  },
+  "EMAIL": "jennifer.smith@email.com",
+  "FIRSTNAME": "Jennifer",
+  "LASTNAME": "Smith",
+  "PHONE": "555-555-1212",
+  "ADDRESS": "654 Pine Blvd",
+  "CARDNO": "3333-4444-5555-6666"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619c8"
+  },
+  "EMAIL": "stephanie.smith@email.com",
+  "FIRSTNAME": "Stephanie",
+  "LASTNAME": "Smith",
+  "PHONE": "555-555-1212",
+  "ADDRESS": "321 Oak St",
+  "CARDNO": "5678-9012-3456-7890"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619c9"
+  },
+  "EMAIL": "kozlov@mail.ru",
+  "FIRSTNAME": "Dmitrii",
+  "LASTNAME": "Kozlov",
+  "PHONE": "+7 702 567 89 01",
+  "ADDRESS": "Karaganda, Bukhar Zhyrau Avenue 32/1",
+  "CARDNO": "5678 9012 3456 7890"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619ca"
+  },
+  "EMAIL": "kuznetsova@gmail.com",
+  "FIRSTNAME": "Elena",
+  "LASTNAME": "Kuznetsova",
+  "PHONE": "+7 707 345 67 89",
+  "ADDRESS": "Almaty, Makataev Street 78/1",
+  "CARDNO": "3456 7890 1234 5678"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619cb"
+  },
+  "EMAIL": "emily.nguyen@gmail.com",
+  "FIRSTNAME": "Emily",
+  "LASTNAME": "Nguyen",
+  "PHONE": "888-777-6666",
+  "ADDRESS": "1010 Pine St",
+  "CARDNO": "4567-8901-2345-6789"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619cc"
+  },
+  "EMAIL": "ashley.chen@gmail.com",
+  "FIRSTNAME": "Ashley",
+  "LASTNAME": "Chen",
+  "PHONE": "999-888-7777",
+  "ADDRESS": "456 Oak St",
+  "CARDNO": "4567-8901-2345-6789"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619cd"
+  },
+  "EMAIL": "kevin.kim@gmail.com",
+  "FIRSTNAME": "Kevin",
+  "LASTNAME": "Kim",
+  "PHONE": "222-333-4444",
+  "ADDRESS": "222 Cherry Ln",
+  "CARDNO": "7890-1234-5678-9012"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619ce"
+  },
+  "EMAIL": "emily.taylor@email.com",
+  "FIRSTNAME": "Emily",
+  "LASTNAME": "Taylor",
+  "PHONE": "555-555-1212",
+  "ADDRESS": "567 Maple Dr",
+  "CARDNO": "4567-8901-2345-6789"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619cf"
+  },
+  "EMAIL": "alex.johnson@hotmail.com",
+  "FIRSTNAME": "Alex",
+  "LASTNAME": "Johnson",
+  "PHONE": "111-222-3333",
+  "ADDRESS": "567 Birch St",
+  "CARDNO": "7890-1234-5678-9012"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619d0"
+  },
+  "EMAIL": "david.jackson@email.com",
+  "FIRSTNAME": "David",
+  "LASTNAME": "Jackson",
+  "PHONE": "123-456-7890",
+  "ADDRESS": "456 Cedar Ave",
+  "CARDNO": "7777-8888-9999-0000"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619d1"
+  },
+  "EMAIL": "smirnova@mail.ru",
+  "FIRSTNAME": "Ekaterina",
+  "LASTNAME": "Smirnova",
+  "PHONE": "+7 705 901 23 45",
+  "ADDRESS": "Nur-Sultan, Zheltoksan Street 23/8",
+  "CARDNO": "9012 3456 7890 1234"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619d2"
+  },
+  "EMAIL": "ivanov@gmail.com",
+  "FIRSTNAME": "Ivan",
+  "LASTNAME": "Ivanov",
+  "PHONE": "+7 701 123 45 67",
+  "ADDRESS": " Almaty, Abai Avenue 123/5",
+  "CARDNO": "1234 5678 9012 3456"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619d3"
+  },
+  "EMAIL": "fedorova@hotmail.com",
+  "FIRSTNAME": "Marina",
+  "LASTNAME": "Fedorova",
+  "PHONE": "+7 702 123 45 67",
+  "ADDRESS": "Karaganda, Gagarin Street 89/2",
+  "CARDNO": "1234 5678 9012 3456"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619d4"
+  },
+  "EMAIL": "sidorova@hotmail.com",
+  "FIRSTNAME": "Anastasia",
+  "LASTNAME": "Sidorova",
+  "PHONE": "+7 705 345 67 89",
+  "ADDRESS": "Almaty, Satpaev Street 56/9",
+  "CARDNO": "3456 7890 1234 5678"
+},{
+  "_id": {
+    "$oid": "646e07f00f755ebb9a1619d5"
+  },
+  "EMAIL": "ivanova@gmail.com",
+  "FIRSTNAME": "Maria",
+  "LASTNAME": "Ivanova",
+  "PHONE": "+7 701 789 01 23",
+  "ADDRESS": "Almaty, Auezov Street 12/6",
+  "CARDNO": "7890 1234 5678 9012"
+}]
