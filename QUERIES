@@ -1,0 +1,233 @@
+QUERIES
+
+
+1.Get the top-selling books by order quantity:
+
+db.Order_item.aggregate([
+  { $group: { _id: "$book_id", totalQuantity: { $sum: "$quantity" } } },
+  { $sort: { totalQuantity: -1 } },
+  { $limit: 10 }
+])
+
+
+2.Get the average price of books in each genre,including the count of books in each genre:( Anel)
+ 
+db.Book.aggregate([
+  {
+	$group: {
+  	_id: "$GENRE",
+  	averagePrice: { $avg: "$PRICE" },
+  	bookCount: { $sum: 1 }
+	}
+  },
+  { $sort: { averagePrice: -1 } }
+])
+
+
+
+3.Get the latest order placed:(Gau)
+
+db.Order.find().sort({ order_date: -1 }).limit(1)
+
+
+
+4.To retrieve books with a price less than $20 but not greater than $5 with sorting  ( Anel)
+
+db.Book.aggregate([ {$match: {PRICE: {$lt: 20,$gte: 5 }} }, 
+{$project: {TITLE: 1,PRICE: 1,DESCRIPTION: 1,_id: 0}  }, 
+{$sort: {PRICE: 1}} ])
+
+
+
+
+5.Get the top 10 customers who have spent the most amount of money:(Gau)
+
+db.Order.aggregate([
+  { $group: { _id: "$email_id", totalAmount: { $sum: "$total_amount" } } },
+  { $sort: { totalAmount: -1 } },
+  { $limit: 10 }
+])
+
+
+
+6.Get the customers who have placed orders with a total amount greater than a specific threshold:
+
+db.Order.aggregate([
+  { $group: { _id: "$email_id", totalAmount: { $sum: "$totalAmount" } } },
+  { $match: { totalAmount: { $gt: 100 } } }
+])
+
+
+
+7.Get the books that have received the highest average ratings: (Anel)
+
+db.Review.aggregate([
+  { $group: { _id: "$Book_id", averageRating: { $avg: "$RATING" } } },
+  { $sort: { averageRating: -1 } },
+  { $limit: 10 }
+])
+
+
+
+
+8.Get the customers who have not placed any orders:(Gau)
+
+db.customer.find(
+  { email: { $nin: db.Order.distinct("email") } },
+  { EMAIL: 1, PHONE: 1, _id: 0 }
+)
+
+
+
+
+9.Find customers who have placed orders within a specific date range:(KAMA)
+
+const startDate = new Date("2023-01-01");
+const endDate = new Date("2023-12-31");
+db.order.find({ order_date: { $gte: startDate, $lte: endDate } });
+
+
+
+
+10.Gets overall sales of each book 
+
+db.books.aggregate([
+  {
+    $lookup: {
+      from: "order_item",
+      localField: "_id",
+      foreignField: "book_id",
+      as: "sales"
+    }
+  },
+  {
+    $addFields: {
+      totalSales: {
+        $sum: "$sales.quantity"
+      }
+    }
+  },
+  {
+    $project: {
+      _id: 0,
+      book_id: "$_id",
+      TITLE:"$TITLE",
+      totalSales: 1
+    }
+  }
+])
+
+11.Retrieve the books that have not been reviewed by any customers:(KAMA)
+
+db.Book.aggregate([
+  {
+	$lookup: {
+  	from: "Review",
+  	localField: "_id",
+  	foreignField: "Book_id",
+  	as: "reviews"
+	}
+  },
+  {
+	$match: { reviews: { $size: 0 } }
+  },
+  {
+	$project: {
+  	_id: 0,
+  	TITLE: 1,
+  	PRICE: 1,
+  	STATUS: 1,
+  	GENRE: 1,
+  	DESCRIPTION: 1
+	}
+  }
+]);
+
+
+12.Retrieve the books with a price higher than the average price of all books:(Madina)
+
+
+db.Book.aggregate([
+  { $group: { _id: null, averagePrice: { $avg: "$PRICE" } } },
+  { $lookup: { from: "Book", let: { avgPrice: "$averagePrice" }, pipeline: [{ $match: { $expr: { $gt: ["$PRICE", "$$avgPrice"] } } }], as: "books" } }
+]);
+
+
+
+13.Updates price in item_order by * price from books and quantity , multiply quantity by price
+db.order_item.aggregate([
+  {
+    $lookup: {
+      from: "books",
+      localField: "book_id",
+      foreignField: "_id",
+      as: "book"
+    }
+  },
+  {
+    $unwind: "$book"
+  },
+  {
+    $addFields: {
+      price: {
+        $multiply: ["$book.PRICE", "$quantity"]
+      }
+    }
+  },
+  {
+    $unset: "book"
+  },
+  {
+    $merge: "order_item"  }
+])
+
+14.sets Total price of order collection by summing order item price related to that order 
+
+db.order.aggregate([
+  {
+    $lookup: {
+      from: "order_item",
+      localField: "_id",
+      foreignField: "order_id",
+      as: "orderItems"
+    }
+  },
+  {
+    $addFields: {
+      totalAmount: {
+        $sum: "$orderItems.price"
+      }
+    }
+  },
+  {
+    $merge: {
+      into: "order",
+      on: "_id",
+      whenMatched: "replace"
+    }
+  }
+])
+
+15. Shows total amount for each payment method
+
+db.payment.aggregate([
+  {
+    $lookup: {
+      from: "order",
+      localField: "order_id",
+      foreignField: "_id",
+      as: "order"
+    }
+  },
+  {
+    $unwind: "$order"
+  },
+  {
+    $group: {
+      _id: "$payment_method",
+      totalAmount: { $sum: "$order.totalAmount" }
+    }
+  }
+])
+
+
