@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "646e468d9516448672b54d62"
+  },
+  "NAME": "Madina",
+  "ADMIN_ROLE": "Marketing Manager",
+  "URL": {
+    "$oid": "646e460a9516448672b54d60"
+  }
+},{
+  "_id": {
+    "$oid": "646e468d9516448672b54d63"
+  },
+  "NAME": "Kama",
+  "ADMIN_ROLE": "Financial Manager",
+  "URL": {
+    "$oid": "646e460a9516448672b54d60"
+  }
+},{
+  "_id": {
+    "$oid": "646e468d9516448672b54d64"
+  },
+  "NAME": "Anel Askarkyzy",
+  "ADMIN_ROLE": "Inventory Manager",
+  "URL": {
+    "$oid": "646e460a9516448672b54d60"
+  }
+},{
+  "_id": {
+    "$oid": "646e468d9516448672b54d65"
+  },
+  "NAME": "Gauhar",
+  "ADMIN_ROLE": "Customer Service Manager",
+  "URL": {
+    "$oid": "646e460a9516448672b54d60"
+  }
+},{
+  "_id": {
+    "$oid": "646e468d9516448672b54d66"
+  },
+  "NAME": "Margulan",
+  "ADMIN_ROLE": "Assistant",
+  "URL": {
+    "$oid": "646e460a9516448672b54d60"
+  }
+}]
