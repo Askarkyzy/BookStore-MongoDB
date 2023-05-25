@@ -1,0 +1,547 @@
+[{
+  "_id": {
+    "$oid": "646e4e749516448672b54d6e"
+  },
+  "RATING": 3,
+  "COMMENT": "This book was a great read. ",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210a5"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a4"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d6f"
+  },
+  "RATING": 4,
+  "COMMENT": "I absolutely loved this book.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210a5"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a5"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d70"
+  },
+  "RATING": 5,
+  "COMMENT": "One of the best books I have ever read.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210a6"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a6"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d71"
+  },
+  "RATING": 2,
+  "COMMENT": "I found this book to be a bit boring.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210a7"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a7"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d72"
+  },
+  "RATING": 3,
+  "COMMENT": "A solid book. The characters were likable and the pacing was good.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210a7"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a8"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d73"
+  },
+  "RATING": 4,
+  "COMMENT": "I really enjoyed this book. The author had a unique perspective on the subject matter.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210a8"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a7"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d74"
+  },
+  "RATING": 1,
+  "COMMENT": "I did not like this book at all. The writing was poor and the story was uninteresting.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210a4"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a8"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d75"
+  },
+  "RATING": 5,
+  "COMMENT": "An excellent book. The writing was beautiful and the story was both heartwarming and heartbreaking.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210a9"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a9"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d76"
+  },
+  "RATING": 3,
+  "COMMENT": "A Decent book. The writing was good, but the story was a bit predictable.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210ab"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a9"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d77"
+  },
+  "RATING": 4,
+  "COMMENT": "I really enjoyed this book. The characters were well-developed and the story was engaging.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210aa"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619ab"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d78"
+  },
+  "RATING": 2,
+  "COMMENT": "I didnt like this book. The writing was confusing and the story didnt make much sense.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210ab"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619aa"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d79"
+  },
+  "RATING": 5,
+  "COMMENT": "An amazing book. The author is a true master of their craft.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210ac"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619aa"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d7a"
+  },
+  "RATING": 4,
+  "COMMENT": "I enjoyed this book. The author did a good job of creating an interesting story.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210ad"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619ac"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d7b"
+  },
+  "RATING": 3,
+  "COMMENT": "A decent book. The story was interesting, but the writing could have been better.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210ae"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619ac"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d7c"
+  },
+  "RATING": 4,
+  "COMMENT": "I really enjoyed this book. The author had a unique perspective on the subject matter.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210ae"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a5"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d7e"
+  },
+  "RATING": 3,
+  "COMMENT": "I enjoyed this book. The author did a good job of creating an interesting story.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210b0"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619af"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d7f"
+  },
+  "RATING": 5,
+  "COMMENT": "This book was absolutely amazing. The story was both heartwarming and thought-provoking.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210b1"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b3"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d80"
+  },
+  "RATING": 3,
+  "COMMENT": "A decent book. The characters were interesting, but the story was a bit slow.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210b1"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b4"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d81"
+  },
+  "RATING": 4,
+  "COMMENT": "I really enjoyed this book. The author had a great sense of humor and the story was engaging.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210b2"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b5"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d82"
+  },
+  "RATING": 2,
+  "COMMENT": "I didnt like this book. The story was confusing and the characters were underdeveloped."
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d83"
+  },
+  "RATING": 5,
+  "COMMENT": "An absolute masterpiece. The authors writing style is truly beautiful.",
+  "Book_d": {
+    "$oid": "646df9257c20fc32977210b3"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a6"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d84"
+  },
+  "RATING": 4,
+  "COMMENT": "A great book. The characters were well-developed and the plot was full of surprises.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210b4"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a7"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d85"
+  },
+  "RATING": 3,
+  "COMMENT": "A decent book. The story was interesting, but the writing could have been better.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210b5"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a7"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d86"
+  },
+  "RATING": 4,
+  "COMMENT": "I really enjoyed this book. The author did a great job of creating an immersive world.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210b6"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a8"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d87"
+  },
+  "RATING": 2,
+  "COMMENT": "I didnt like this book. The writing was poor and the characters were unlikable.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210b7"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a8"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d88"
+  },
+  "RATING": 3,
+  "COMMENT": "A solid book. The writing was good, but the story was a bit predictable.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210b9"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619a9"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d89"
+  },
+  "RATING": 5,
+  "COMMENT": "One of the best books I have ever read. The story was both gripping and emotionally resonant.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210b9"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619ab"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d8a"
+  },
+  "RATING": 4,
+  "COMMENT": "A great book. The characters were well-developed and the pacing was spot-on.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210ba"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619ac"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d8b"
+  },
+  "RATING": 3,
+  "COMMENT": "A decent book. The writing was good, but the story was a bit slow.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210bb"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619ad"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d8c"
+  },
+  "RATING": 4,
+  "COMMENT": "I really enjoyed this book. The author had a great sense of humor and the story was engaging.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210bc"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619ae"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d8d"
+  },
+  "RATING": 2,
+  "COMMENT": "I didnt like this book. The story was confusing and the characters were underdeveloped.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210bd"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619ae"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d8e"
+  },
+  "RATING": 5,
+  "COMMENT": "An absolute masterpiece. The authors writing style is truly beautiful.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210be"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619af"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d8f"
+  },
+  "RATING": 4,
+  "COMMENT": "A great book. The characters were well-developed and the plot was full of surprises.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210bf"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b0"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d90"
+  },
+  "RATING": 3,
+  "COMMENT": "A decent book. The story was interesting, but the writing could have been better",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210c0"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b1"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d91"
+  },
+  "RATING": 2,
+  "COMMENT": "I didnt enjoy this book. The plot felt contrived and the characters were flat.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210c1"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b1"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d92"
+  },
+  "RATING": 5,
+  "COMMENT": "just WOW!!!",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210c1"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b2"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d93"
+  },
+  "RATING": 4,
+  "COMMENT": "Absolutely phenomenal. The story was beautifully written and deeply moving.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210c2"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b3"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d94"
+  },
+  "RATING": 3,
+  "COMMENT": "An okay book. The writing was decent, but the story didnt really grab me.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210c3"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b4"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d95"
+  },
+  "RATING": 4,
+  "COMMENT": "I really enjoyed this book. The characters were well-developed and the plot was engaging.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210c4"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b5"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d96"
+  },
+  "RATING": 2,
+  "COMMENT": "I didnt like this book. The story felt cliched and the writing was mediocre.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210c5"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b6"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d97"
+  },
+  "RATING": 5,
+  "COMMENT": "A true masterpiece. The story was both gripping and emotionally resonant.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210c6"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619b8"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d9b"
+  },
+  "RATING": 2,
+  "COMMENT": "I didnt like this book. The characters were shallow and the plot felt contrived.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210c9"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619bb"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d9c"
+  },
+  "RATING": 3,
+  "COMMENT": "A decent book. The writing was solid, but the story was a bit predictable.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210c8"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619ba"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d9d"
+  },
+  "RATING": 5,
+  "COMMENT": "This book blew me away. The story was beautifully written and deeply moving.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210cc"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619bc"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d9e"
+  },
+  "RATING": 4,
+  "COMMENT": "A great book. The characters were well-developed and the plot was engaging.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210ce"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619cb"
+  }
+},{
+  "_id": {
+    "$oid": "646e4e749516448672b54d9f"
+  },
+  "RATING": 3,
+  "COMMENT": "An okay book. The story was decent, but nothing about it really stood out to me.",
+  "Book_id": {
+    "$oid": "646df9257c20fc32977210d5"
+  },
+  "Customer_id": {
+    "$oid": "646e07f00f755ebb9a1619ce"
+  }
+}]
