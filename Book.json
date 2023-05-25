@@ -1,0 +1,766 @@
+[{
+  "_id": {
+    "$oid": "646df9257c20fc32977210a4"
+  },
+  "TITLE": "Oliver Twist",
+  "PRICE": 9.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A humorous sci-fi novel",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f6"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ac"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210a5"
+  },
+  "TITLE": "Harry Potter and the Philosopher's Stone",
+  "PRICE": 10.99,
+  "STATUS": "Available",
+  "GENRE": "Fantasy",
+  "DESCRIPTION": "The first book in the Harry Potter series.",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f7"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ab"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210a6"
+  },
+  "TITLE": "The Shining",
+  "PRICE": 8.99,
+  "STATUS": "Available",
+  "GENRE": "Horror",
+  "DESCRIPTION": "A classic horror novel by Stephen King.",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f8"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ac"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210a7"
+  },
+  "TITLE": "Murder on the Orient Express",
+  "PRICE": 19.99,
+  "STATUS": "Available",
+  "GENRE": "Mystery",
+  "DESCRIPTION": "A famous detective novel by Agatha Christie.",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f9"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ad"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210a8"
+  },
+  "TITLE": "The Old Man and the Sea",
+  "PRICE": 6.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A Pulitzer Prize-winning novella by Ernest Hemingway.",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210fa"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ae"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210a9"
+  },
+  "TITLE": "1984",
+  "PRICE": 5.99,
+  "STATUS": "Available",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A dystopian novel by George Orwell.",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210fb"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74af"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210aa"
+  },
+  "TITLE": "Pride and Prejudice",
+  "PRICE": 9.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A classic novel by Jane Austen.",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210fc"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74af"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210ab"
+  },
+  "TITLE": "Hamlet",
+  "PRICE": 12.99,
+  "STATUS": "Available",
+  "GENRE": "Drama",
+  "DESCRIPTION": "A Shakespearean tragedy about revenge and madness.",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210fd"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b1"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210ac"
+  },
+  "TITLE": "The Great Gatsby",
+  "PRICE": 11.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A novel by F. Scott Fitzgerald set in the Roaring Twenties.",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210fe"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b2"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210ad"
+  },
+  "TITLE": "Beloved",
+  "PRICE": 10.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A Pulitzer Prize-winning novel by Toni Morrison about slavery and its aftermath.",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210ff"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b3"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210ae"
+  },
+  "TITLE": "To Kill a Mockingbird",
+  "PRICE": 9.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A Pulitzer Prize-winning novel by Harper Lee about racial inequality in the American South.",
+  "author": {
+    "$oid": "646dfbdb7c20fc3297721100"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b4"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210af"
+  },
+  "TITLE": "The Grapes of Wrath",
+  "PRICE": 8.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A novel by John Steinbeck about the Great Depression and the Dust Bowl.",
+  "author": {
+    "$oid": "646dfbdb7c20fc3297721101"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b5"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210b0"
+  },
+  "TITLE": "The Catcher in the Rye",
+  "PRICE": 7.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A coming-of-age novel by J.D. Salinger.",
+  "author": {
+    "$oid": "646dfbdb7c20fc3297721102"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b6"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210b1"
+  },
+  "TITLE": "The Hobbit",
+  "PRICE": 8.99,
+  "STATUS": "Available",
+  "GENRE": "Fantasy",
+  "DESCRIPTION": "A prequel to The Lord of the Rings by J.R.R. Tolkien.",
+  "author": {
+    "$oid": "646dfbdb7c20fc3297721104"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b7"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210b2"
+  },
+  "TITLE": "Brave New World",
+  "PRICE": 6.99,
+  "STATUS": "Available",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A dystopian novel by Aldous Huxley.",
+  "author": {
+    "$oid": "646dfbdb7c20fc3297721105"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b8"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210b3"
+  },
+  "TITLE": "The Count of Monte Cristo",
+  "PRICE": 9.99,
+  "STATUS": "Available",
+  "GENRE": "Adventure",
+  "DESCRIPTION": "A classic adventure novel by Alexandre Dumas.",
+  "author": {
+    "$oid": "646dfbdb7c20fc3297721106"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b9"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210b4"
+  },
+  "TITLE": "The Picture of Dorian Gray",
+  "PRICE": 5.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A novel by Oscar Wilde about the corruption of youth.",
+  "author": {
+    "$oid": "646dfbdb7c20fc3297721106"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ba"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210b5"
+  },
+  "TITLE": "The Adventures of Tom Sawyer",
+  "PRICE": 6.99,
+  "STATUS": "Available",
+  "GENRE": "Adventure",
+  "DESCRIPTION": "A classic novel by Mark Twain about a young boy growing up on the Mississippi River.",
+  "author": {
+    "$oid": "646dfbdb7c20fc3297721107"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74bb"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210b6"
+  },
+  "TITLE": "The Hitchhiker's Guide to the Galaxy",
+  "PRICE": 7.99,
+  "STATUS": "Available",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A comedic science fiction series by Douglas Adams.",
+  "author": {
+    "$oid": "646dfbdb7c20fc3297721109"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74bc"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210b7"
+  },
+  "TITLE": "The Lord of the Flies",
+  "PRICE": 6.99,
+  "STATUS": "Available",
+  "GENRE": "Adventure",
+  "DESCRIPTION": "A novel by William Golding about a group of boys stranded on an uninhabited island.",
+  "author": {
+    "$oid": "646dfbdb7c20fc3297721109"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74bd"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210b8"
+  },
+  "TITLE": "The Cat in the Hat",
+  "PRICE": 4.99,
+  "STATUS": "Available",
+  "GENRE": "Children's literature",
+  "DESCRIPTION": "A classic children's book by Dr. Seuss.",
+  "author": {
+    "$oid": "646dfbdb7c20fc329772110a"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ad"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210b9"
+  },
+  "TITLE": "The Millstone",
+  "PRICE": 12.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A story about racism and injustice",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210ec"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74d3"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210ba"
+  },
+  "TITLE": "Wolf Hall",
+  "PRICE": 14.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A dystopian novel",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210ed"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74d4"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210bb"
+  },
+  "TITLE": "Cloud Atlas",
+  "PRICE": 10.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A political allegory",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210ee"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74d5"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210bc"
+  },
+  "TITLE": "Norwegian Wood",
+  "PRICE": 13.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A story about the Roaring Twenties",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210ef"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74d6"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210bd"
+  },
+  "TITLE": "The Catcher in the Rye",
+  "PRICE": 11.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A romantic novel",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f0"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74d7"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210be"
+  },
+  "TITLE": "The Bell Jar",
+  "PRICE": 16.99,
+  "STATUS": "Available",
+  "GENRE": "Fantasy",
+  "DESCRIPTION": "A childrens fantasy novel",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f1"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74d8"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210bf"
+  },
+  "TITLE": "Wuthering Heights",
+  "PRICE": 19.99,
+  "STATUS": "Available",
+  "GENRE": "Fantasy",
+  "DESCRIPTION": "A high fantasy novel",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f2"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74d9"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210c0"
+  },
+  "TITLE": "Jane Eyre",
+  "PRICE": 12.99,
+  "STATUS": "Available",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A dystopian novel",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f3"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74da"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210c1"
+  },
+  "TITLE": "Tess of the Urbervilles",
+  "PRICE": 14.99,
+  "STATUS": "Available",
+  "GENRE": "Classics",
+  "DESCRIPTION": "An epic poem",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f4"
+  },
+  "publisher": {
+    "$oid": "646dfbdb7c20fc32977210f4"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210c2"
+  },
+  "TITLE": "Emma",
+  "PRICE": 18.99,
+  "STATUS": "Available",
+  "GENRE": "Fantasy",
+  "DESCRIPTION": "The just interest book",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f5"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ad"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210c3"
+  },
+  "TITLE": "Another Country",
+  "PRICE": 12.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A novel about racial injustice and the loss of innocence in the South",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210d9"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74c0"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210c4"
+  },
+  "TITLE": "Stories That Are Funny, Complicated, and True",
+  "PRICE": 7.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A dystopian novel about government surveillance and control",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210da"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b1"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210c5"
+  },
+  "TITLE": "Americanah",
+  "PRICE": 6.99,
+  "STATUS": "Available",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A political allegory about a group of farm animals who rebel against their human farmer",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210db"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74b2"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210c6"
+  },
+  "TITLE": "Between the World and Me",
+  "PRICE": 8.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Fiction",
+  "DESCRIPTION": "A dystopian novel about a future society that is controlled by technology and pleasure",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210dc"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74c3"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210c7"
+  },
+  "TITLE": "Bad Feminist",
+  "PRICE": 25.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Fantasy",
+  "DESCRIPTION": "A classic fantasy novel about a hobbit on a quest to destroy a powerful ring",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210dd"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74c4"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210c8"
+  },
+  "TITLE": "Zone One",
+  "PRICE": 15.99,
+  "STATUS": "Available",
+  "GENRE": "Fantasy",
+  "DESCRIPTION": "The first book in the popular which follows a young boy who discovers he is a wizard",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210de"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74c5"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210c9"
+  },
+  "TITLE": "Swing Time",
+  "PRICE": 19.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Mystery",
+  "DESCRIPTION": "A mystery novel about a symbologist who investigates a murder in Paris",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210df"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74c6"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210ca"
+  },
+  "TITLE": "The Namesake",
+  "PRICE": 19.99,
+  "STATUS": "Available",
+  "GENRE": "Mystery",
+  "DESCRIPTION": "A mystery novel about a journalist and a hacker who team up to solve a decades-old murder case",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210e0"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74c7"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210cb"
+  },
+  "TITLE": "Infinite Jest",
+  "PRICE": 8.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A dystopian novel about a post-apocalyptic society in which teenagers are forced to fight to the death in an annual event called the Hunger Games",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210e1"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74c8"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210cc"
+  },
+  "TITLE": "White Noise",
+  "PRICE": 7.99,
+  "STATUS": "Available",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A humorous science fiction novel about an average man who is whisked away on an intergalactic adventure",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210e2"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74c9"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210cd"
+  },
+  "TITLE": "The Road",
+  "PRICE": 11.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A science fiction novel about an astronaut who becomes stranded on Mars and must find a way to survive",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210e3"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ca"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210ce"
+  },
+  "TITLE": "The Right Stuff",
+  "PRICE": 8.99,
+  "STATUS": "Available",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A classic science fiction novel about a Martian invasion of Earth",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210e4"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74cb"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210cf"
+  },
+  "TITLE": "Song of Solomon",
+  "PRICE": 6.99,
+  "STATUS": "Available",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A science fiction novel about a time traveler who travels to the year 802,701 AD and encounters two distinct races, the Eloi and the Morlocks",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210e5"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74cc"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210d0"
+  },
+  "TITLE": "Goodbye, Columbus",
+  "PRICE": 7.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Science Fiction",
+  "DESCRIPTION": "A science fiction novel about a scientist who discovers a way to make himself invisible but struggles with the consequences of his actions",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210e6"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74cd"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210d1"
+  },
+  "TITLE": "Freedom",
+  "PRICE": 9.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Horror",
+  "DESCRIPTION": "A classic horror novel about a scientist who creates a monster and the tragic consequences that follow",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210e7"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ce"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210d2"
+  },
+  "TITLE": "The Brief Wondrous Life of Oscar Wao",
+  "PRICE": 8.99,
+  "STATUS": "Available",
+  "GENRE": "Horror",
+  "DESCRIPTION": "A horror novel about the infamous vampire Count Dracula and his attempt to move from Transylvania to England to spread the undead curse",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210e8"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74cf"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210d3"
+  },
+  "TITLE": "The God of Small Things",
+  "PRICE": 10.99,
+  "STATUS": "Available",
+  "GENRE": "Horror",
+  "DESCRIPTION": "A horror novel about a family that becomes caretakers of a remote hotel for the winter, only to be haunted by supernatural forces",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210e9"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74d0"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210d4"
+  },
+  "TITLE": "Never Let Me Go",
+  "PRICE": 9.99,
+  "STATUS": "Unvailable",
+  "GENRE": "Horror",
+  "DESCRIPTION": "A horror novel about a vampire who recounts his life story to a reporter",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210ea"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74d1"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210d5"
+  },
+  "TITLE": "Amsterdam ",
+  "PRICE": 12.99,
+  "STATUS": "Available",
+  "GENRE": "Thriller",
+  "DESCRIPTION": "A thriller novel about an FBI trainee who seeks the help of a brilliant psychiatrist and cannibalistic serial killer to catch another serial killer at large",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210eb"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74d2"
+  }
+},{
+  "_id": {
+    "$oid": "646df9257c20fc32977210d6"
+  },
+  "TITLE": "Pride",
+  "PRICE": 50,
+  "STATUS": "Unavailable",
+  "GENRE": "horror",
+  "DESCRIPTION": "If you want to scream,this is for you",
+  "author": {
+    "$oid": "646dfbdb7c20fc32977210f9"
+  },
+  "publisher": {
+    "$oid": "646dfa03a3af04b8c17e74ad"
+  }
+}]
