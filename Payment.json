@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2af"
+  },
+  "payment_method": "card",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d191c"
+  },
+  "payment_date": {
+    "$date": "2023-03-03T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2b0"
+  },
+  "payment_method": "card",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d191d"
+  },
+  "payment_date": {
+    "$date": "2022-07-27T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2b1"
+  },
+  "payment_method": "mobile payment",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d191e"
+  },
+  "payment_date": {
+    "$date": "2022-11-18T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2b2"
+  },
+  "payment_method": "cash",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d191f"
+  },
+  "payment_date": {
+    "$date": "2023-02-06T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2b3"
+  },
+  "payment_method": "card",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1920"
+  },
+  "payment_date": {
+    "$date": "2023-05-24T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2b4"
+  },
+  "payment_method": "mobile payment",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1921"
+  },
+  "payment_date": {
+    "$date": "2022-07-17T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2b5"
+  },
+  "payment_method": "cash",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1922"
+  },
+  "payment_date": {
+    "$date": "2022-07-10T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2b6"
+  },
+  "payment_method": "card",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1923"
+  },
+  "payment_date": {
+    "$date": "2023-04-25T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2b7"
+  },
+  "payment_method": "cash",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1924"
+  },
+  "payment_date": {
+    "$date": "2023-02-17T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2b8"
+  },
+  "payment_method": "mobile payment",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1925"
+  },
+  "payment_date": {
+    "$date": "2023-05-03T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2b9"
+  },
+  "payment_method": "mobile payment",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1926"
+  },
+  "payment_date": {
+    "$date": "2023-02-09T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2ba"
+  },
+  "payment_method": "mobile payment",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1927"
+  },
+  "payment_date": {
+    "$date": "2022-12-03T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2bb"
+  },
+  "payment_method": "mobile payment",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1928"
+  },
+  "payment_date": {
+    "$date": "2022-10-21T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2bc"
+  },
+  "payment_method": "cash",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1929"
+  },
+  "payment_date": {
+    "$date": "2022-07-30T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2bd"
+  },
+  "payment_method": "card",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d192a"
+  },
+  "payment_date": {
+    "$date": "2022-12-18T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2be"
+  },
+  "payment_method": "cash",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d192b"
+  },
+  "payment_date": {
+    "$date": "2023-05-18T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2bf"
+  },
+  "payment_method": "card",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d192c"
+  },
+  "payment_date": {
+    "$date": "2023-04-04T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2c0"
+  },
+  "payment_method": "cash",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d192d"
+  },
+  "payment_date": {
+    "$date": "2022-10-17T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2c1"
+  },
+  "payment_method": "mobile payment",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d192e"
+  },
+  "payment_date": {
+    "$date": "2022-10-25T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2c2"
+  },
+  "payment_method": "mobile payments",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d192f"
+  },
+  "payment_date": {
+    "$date": "2022-08-18T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2c3"
+  },
+  "payment_method": "mobile payment",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1930"
+  },
+  "payment_date": {
+    "$date": "2022-11-25T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "646eed1c538c5636390ee2c4"
+  },
+  "payment_method": "mobile payment",
+  "order_id": {
+    "$oid": "646e11ef7b0332bb250d1931"
+  },
+  "payment_date": {
+    "$date": "2023-01-29T00:00:00.000Z"
+  }
+}]
